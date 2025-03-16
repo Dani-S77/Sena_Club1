@@ -1,4 +1,4 @@
-<!-- src/components/molecules/Login/LoginSection.vue -->
+
 <script setup lang="ts">
 import CBButton from "@/components/atoms/CBButton.vue";
 import { ref } from 'vue';
@@ -53,8 +53,10 @@ const handleLogin = () => {
 <style scoped>
 .login-section {
   padding: 20px;
-  background-color: transparent; /* Fondo transparente para que el bg-gray-800 del article lo maneje */
+  background-color: transparent; 
   width: 100%;
   max-width: 300px;
 }
+</style>
+<style>
 </style>
