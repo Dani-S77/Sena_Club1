@@ -29,5 +29,3 @@ const style = computed(() => variants[props.variant]);
     {{ text }}
   </button>
 </template>
-<style>
-</style>

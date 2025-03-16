@@ -58,6 +58,3 @@ const handleLogin = () => {
   max-width: 300px;
 }
 </style>
-<style>
-
-</style>
